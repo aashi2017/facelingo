@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/facelingo/static/css/main.073c9b0a.css",
+    "main.css": "/facelingo/static/css/main.cecd8a22.css",
     "main.js": "/facelingo/static/js/main.7463cfa1.js",
     "static/js/787.e633943d.chunk.js": "/facelingo/static/js/787.e633943d.chunk.js",
     "static/media/logo.png": "/facelingo/static/media/logo.05691cbe1a62e2d6679c.png",
     "index.html": "/facelingo/index.html",
-    "main.073c9b0a.css.map": "/facelingo/static/css/main.073c9b0a.css.map",
+    "main.cecd8a22.css.map": "/facelingo/static/css/main.cecd8a22.css.map",
     "main.7463cfa1.js.map": "/facelingo/static/js/main.7463cfa1.js.map",
     "787.e633943d.chunk.js.map": "/facelingo/static/js/787.e633943d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.cecd8a22.css",
     "static/js/main.7463cfa1.js"
   ]
 }
